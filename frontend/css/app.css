@@ -46,7 +46,7 @@ b{font-weight:500}
 .stat span{font-size:15px;color:var(--mut)}
 .stat b{display:block;font-size:40px;font-weight:300;line-height:1.2;margin-top:6px}
 .stat.mint{background:linear-gradient(135deg,#38eaa6,#19c3b1);color:#06281f}.stat.mint span{color:#0b5240}
-.stat.dark{background:var(--ink2);color:#fff}.stat.dark span{color:#a9b7bd}
+.stat.dark{background:var(--ink2);color:#363636}.stat.dark span{color:#a9b7bd}
 
 .bhead{display:flex;gap:16px;align-items:flex-start}
 .grow{flex:1;min-width:0}
