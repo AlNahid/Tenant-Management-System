@@ -1,0 +1,10 @@
+{
+  "name": "landlord-pwa",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "cd backend && wrangler pages dev ../frontend",
+    "deploy": "cd backend && wrangler pages deploy ../frontend --project-name landlord",
+    "test": "node --test tests/calc.test.mjs tests/backend.test.mjs"
+  }
+}
