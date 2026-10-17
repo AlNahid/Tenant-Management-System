@@ -1,5 +1,5 @@
 {
-  "name": "landlord",
+  "name": "tenant-management-system",
   "main": "backend/worker.js",
   "compatibility_date": "2025-09-01",
   "keep_vars": true,
